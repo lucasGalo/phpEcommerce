@@ -1,0 +1,2 @@
+git init (inicializar)
+git status (mostras os arquivos que devem subia para o gibhub)
