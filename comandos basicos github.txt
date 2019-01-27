@@ -4,3 +4,4 @@ git add * (Coloca td em memoria)
 git commit -m "Projeto Ecomerce inicio" (escrevendo uma msg)
 git remove add origin https://github.com/lucasGalo/phpEcommerce.git
 git push origin master
+git push -f origin master (forçando o push)
